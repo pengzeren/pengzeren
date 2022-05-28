@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pengzeren
 - 👀 I’m interested in games
-- 🌱 I’m currently learning CS50 & C# 
+- 🌱 I’m currently learning CS50 & data analytics 
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me @pengzeren
 
